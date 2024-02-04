@@ -1,7 +1,15 @@
 # PiggyBank - Capital One Best Financial Hack Winner - Boston Hacks 2023 Hackathon - Nov. 18-19
 
+<div align="center">
+
 ## DEMO VIDEO
-[https://youtu.be/OHnjBOKQMy0?si=SQmDDDXD-YJoF03l]
+[https://youtu.be/OHnjBOKQMy0?si=SQmDDDXD-YJoF03l](https://youtu.be/OHnjBOKQMy0?si=SQmDDDXD-YJoF03l)
+
+![Screenshot 2024-02-04 at 3 45 18 PM](https://github.com/brianwong778/PiggyBank-BostonHacks/assets/113395187/43ae9aad-3a50-4dbd-92b1-b087e05ffa36)
+
+
+</div>
+
 
 ## Inspiration
 
